@@ -38,7 +38,7 @@ main{
 .qr-component img{
     width: 100%;
     border-radius: 16px;
-    margin-bottom: 24px;
+    margin-bottom: 20px;
 }
 
 .qr-component h1{
